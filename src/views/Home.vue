@@ -13,10 +13,10 @@
                 <a :href="docLink" target="_blank">{{ $t("home.home15") }}</a>
               </span>
               <span>
-                <a href="https://forms.gle/XFMrcYQLhapYyLaSA" target="_blank">{{ $t("home.home17") }}</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPXX4EDtzxqBg3OBMIq7EtoiBxnxcqokIeVzAqyXQFYbmf4w/viewform" target="_blank">{{ $t("home.home17") }}</a>
               </span> 
               <span>
-                <a href="https://forms.gle/LBXT3MG8moKhRRnHA" target="_blank">{{ $t("home.home16") }}</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2orbvmdtvQk1IqOI52zkYHFEaIUE0VSuhWTEgQb4tnFZQ_A/viewform" target="_blank">{{ $t("home.home16") }}</a>
               </span>
               <span>
                 <a href="https://forum.nabox.io/" target="_blank">{{ $t("home.home26") }}</a>
@@ -337,12 +337,12 @@
             <h5>{{ $t("bottom.bottom8") }}</h5>
             <div>
               <p>
-                <a href="https://forms.gle/XFMrcYQLhapYyLaSA" target="_blank">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPXX4EDtzxqBg3OBMIq7EtoiBxnxcqokIeVzAqyXQFYbmf4w/viewform" target="_blank">
                   {{ $t("bottom.bottom9") }}
                 </a>
               </p>
               <p>
-                <a href="https://forms.gle/LBXT3MG8moKhRRnHA" target="_blank">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2orbvmdtvQk1IqOI52zkYHFEaIUE0VSuhWTEgQb4tnFZQ_A/viewform" target="_blank">
                   {{ $t("bottom.bottom10") }}
                 </a>
               </p>
